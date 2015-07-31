@@ -1,3 +1,5 @@
 == README
 
+{<img alt='Throughput Graph' src='https://graphs.waffle.io/visnupriya/grape-sample/throughput.svg' />}[https://waffle.io/visnupriya/grape-sample/metrics]
+
 Rails Application using Grape
